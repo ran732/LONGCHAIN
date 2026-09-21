@@ -1,0 +1,6 @@
+@"
+.env
+venv/
+__pycache__/
+tempCodeRunnerFile.py
+"@ | Out-File -Encoding utf8 .gitignore
